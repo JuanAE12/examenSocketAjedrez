@@ -1,0 +1,19 @@
+
+body {
+    overflow-y: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#gameBoard {
+    width: 40%;
+    margin-top: 1cm;
+}
+
+#info {
+    margin-left: 1cm;
+    width: 25%;
+    height: 50%;
+    background-color: #fd7f45;
+}
